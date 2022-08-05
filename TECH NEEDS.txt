@@ -1,0 +1,10 @@
+BIGGEST TECH  PRE-REQ
+
+Amazon
+Amazon's interview problems haven't changed much since the Cracking the Coding Interview days. Two pointers, DFS, BFS make up half the problems. Since the existence of the performance improvement plan, it's relatively easy to fire employees. So the interviews are not intended to be very difficult.
+
+Facebook
+Facebook likes to ask classic problems and is generally harder than Amazon. Word on the streets is the company cares more about bug-free coding than anything else. Two pointers, DFS and BFS still dominate. If you are interviewing Facebook it's a good idea to practice the classic problems we have in this course multiple times.
+
+Google
+Google has an internal policy of not using any problem that can be found on the internet for interviews. Therefore the engineers constantly reinvent new problems which also makes the interview more difficult (or easier depending on how you view it since invented problems are often as well-thought-out as classic problems). Some problems require more than one pattern, e.g. prefix sum + binary search, DFS + prefix sum. You have to be very familiar with the basic patterns we have in this course. 

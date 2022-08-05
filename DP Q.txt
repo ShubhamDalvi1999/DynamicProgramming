@@ -1,0 +1,22 @@
+#Print all non-increasing sequences 
+of sum equal to a given number x
+
+#Subsequence Problems:
+ 1.Print all subsequences (Recursive ,Dynamic Approach)
+ 2.Sum of subsets to addup to a number(Backtracking)
+ 3.Longest common Subsequence (Dynamic Approach)
+ 4.Kadane's Algorithm (Max sum of subarray)
+ 5.Longest Increasing Subseq(Dp)
+
+#0/1 Knapsack Problem(Dp)
+
+#Stair case Problem..Finding number of ways of climbing
+a given level when only 1 or 2 steps are allowed 
+(Dynamic P)
+
+
+
+
+
+
+

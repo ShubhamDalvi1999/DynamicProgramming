@@ -1,0 +1,8 @@
+NEVER/VERY RARELY USED ALGO:
+
+Very rarely/Never used list:
+
+Minimal spanning tree: Kruskal's algorithm and Prim's algorithm
+Minimum cut: Ford−Fulkerson algorithm
+Shortest path in weight graphs: Bellman−Ford−Moore algorithm
+String search: Boyer−Moore algorithm
